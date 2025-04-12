@@ -3,5 +3,6 @@
     "age": 30,
     "city": "New York",
     "isStudent": false,
-    "skills": ["Python", "JavaScript"]
+    "skills": ["Python", "JavaScript"],
+    "hobby": "coding"
   }
